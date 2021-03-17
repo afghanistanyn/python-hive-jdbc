@@ -7,6 +7,12 @@ need install with requirement.sh, and install java1.8 env.
 how to install ? 
 ```
 
+### install dep
+```
+yum -y install python3-pip python3 python3-devel gcc gcc-c++
+sh requirements.sh
+```
+
 ### mac install java8
 ```
 brew tap caskroom/versions
